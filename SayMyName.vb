@@ -9,10 +9,14 @@ Option Strict On
 Module SayMyName
 
     Sub Main()
+
         Dim userName As String
+        'Ask user for name
         Console.Write("What is your name?")
         Console.WriteLine()
+        'Take user input
         userName = Console.ReadLine()
+        'Give user output
         Console.Write($"Pleasure to meet you {userName}")
 
         Console.Read()
