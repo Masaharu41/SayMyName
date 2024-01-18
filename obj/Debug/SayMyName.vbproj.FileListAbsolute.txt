@@ -1,0 +1,11 @@
+F:\Visual Basic Files\SayMyName\bin\Debug\SayMyName.exe.config
+F:\Visual Basic Files\SayMyName\bin\Debug\SayMyName.exe
+F:\Visual Basic Files\SayMyName\bin\Debug\SayMyName.pdb
+F:\Visual Basic Files\SayMyName\bin\Debug\SayMyName.xml
+F:\Visual Basic Files\SayMyName\obj\Debug\SayMyName.vbproj.AssemblyReference.cache
+F:\Visual Basic Files\SayMyName\obj\Debug\SayMyName.Resources.resources
+F:\Visual Basic Files\SayMyName\obj\Debug\SayMyName.vbproj.GenerateResource.cache
+F:\Visual Basic Files\SayMyName\obj\Debug\SayMyName.vbproj.CoreCompileInputs.cache
+F:\Visual Basic Files\SayMyName\obj\Debug\SayMyName.exe
+F:\Visual Basic Files\SayMyName\obj\Debug\SayMyName.xml
+F:\Visual Basic Files\SayMyName\obj\Debug\SayMyName.pdb
